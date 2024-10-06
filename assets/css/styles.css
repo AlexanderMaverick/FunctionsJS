@@ -1,0 +1,20 @@
+
+.fourDivs{
+    display: flex;
+    justify-content: space-around;
+
+}
+.generatorDivs{
+    display: flex;
+    justify-content: space-around;
+}
+#key, .newDiv {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+#key {
+    background-color: white;
+}
+
